@@ -1,6 +1,6 @@
 import from byllm.llm { Model }
 
-glob llm = Model(model_name="gemini/gemini-2.0-flash", api_key="AIzaSyCxHWWWDyuV9GkRzX-TVnx1ZzCI3PHOMS4", verbose=False);
+glob llm = Model(model_name="gemini/gemini-2.0-flash", api_key="AIzaSyC.....", verbose=False);
 
 """
 Instructs the LLM to create a short, engaging story based on two parameters.
